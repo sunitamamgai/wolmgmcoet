@@ -1,2 +1,2 @@
-Name -  Kali
+Name -Swastika
 Class - TT-CS
